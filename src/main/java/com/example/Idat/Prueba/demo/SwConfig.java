@@ -27,6 +27,15 @@ public class SwConfig {
 				.paths(PathSelectors.any())
 				.build()
 				.apiInfo(apiInfo());
+		//Stella was a diver and she always down:
+
+		//This one's called "Stella Was A Driver And She" s Always Down
+		//A
+		//When she walks down the street
+		//She knows there's people watching
+		
+			
+
 	}
 	
 	private ApiInfo apiInfo()
