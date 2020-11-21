@@ -33,6 +33,8 @@ public class FacturaController {
 		lista.add(new Factura(03, 3, 420.20, "S"));
 		lista.add(new Factura(04, 3, 666.99, "P"));
 		lista.add(new Factura(05, 2, 800.19, "S"));
+		lista.add(new Factura(06, 1, 150.99, "S"));
+		
 
 		return lista;
 
