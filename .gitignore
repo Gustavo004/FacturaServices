@@ -69,3 +69,23 @@ build/
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+
+b092444 (HEAD -> master) Agregando todo lo necesario para ignorar  en .gitignore
+be159b6 Ejemplo de un archivo .gitignore
+a7e10de agregue una lista mas a FacturaController;
+8bda380 añadi human tetris al documento readme
+502b3d9 Revert "Demostracion de como se borra"
+336b24f My message
+27a9e12 Commit con los cambios  parciales.
+967d334 AJA
+4d552f3 a
+c05159d DEMOSTRACION DE CAMBIOS
+944a99c Cambiee el readMe.txt a LEEME.TXT es lo mismo XD
+ea7101b Demostracion de como se borra
+a4931dd Debo borrar el che
+5f8b9a6 Agruegue una linea nueva XD
+fab398f Modificamos el txt y le pusimos letra a SwConfig.java con una de interpol XD
+67b9e67 Agregue un nunevo mensaje de texto llamado //prueba1 y //prueba2
+ad06032 Agruegue un archivo txt donde pregunto como estas <3
+16d5b70 EVC1 COMPLETA
