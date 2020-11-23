@@ -18,6 +18,8 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @EnableSwagger2
 public class SwConfig {
 
+	//Añadi un comentario
+	
 	@Bean
 	public Docket api()
 	{
