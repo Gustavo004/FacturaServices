@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HELP.md
 
 passwords.txt
@@ -46,6 +47,8 @@ build/
 
 # EXTRAIDO DE GITHUB Y LO QUE SE DEBE IGNORAR USUALMENTE ARCHIVOS COMPILADOS;
 
+=======
+>>>>>>> c13d402b4a5fd93b7fa1a6a21c0b2bbaa039f8b4
 # Compiled class file
 *.class
 
@@ -69,6 +72,7 @@ build/
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 
 
 b092444 (HEAD -> master) Agregando todo lo necesario para ignorar  en .gitignore
@@ -89,3 +93,5 @@ fab398f Modificamos el txt y le pusimos letra a SwConfig.java con una de interpo
 67b9e67 Agregue un nunevo mensaje de texto llamado //prueba1 y //prueba2
 ad06032 Agruegue un archivo txt donde pregunto como estas <3
 16d5b70 EVC1 COMPLETA
+=======
+>>>>>>> c13d402b4a5fd93b7fa1a6a21c0b2bbaa039f8b4
